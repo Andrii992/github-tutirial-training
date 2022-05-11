@@ -9,9 +9,10 @@ body {
     font-size: 40px;
     color: orange;
 }
-
+/*#region We Ra*/
 .box::after {
     content: 'Это текст в ::after';
     font-size: 30px;
     color: teal;
 }
+/*#endregion*/
